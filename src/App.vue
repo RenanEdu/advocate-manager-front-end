@@ -24,3 +24,4 @@ export default {
   margin-top: 60px;
 }
 </style>
+npm install --save-dev typescript
